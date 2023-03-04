@@ -1,6 +1,6 @@
 {
 	"name": "falbot-roll",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Package made to be used in Falbot to roll dices in a good looking way",
 	"main": "index.js",
 	"scripts": {
