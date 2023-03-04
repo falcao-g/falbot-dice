@@ -1,3 +1,7 @@
+function randint(low, high) {
+	return Math.floor(Math.random() * (high - low + 1) + low)
+}
+
 function rollDice(expressionRaw) {
 	var expression = ""
 	for (let c = 0; c < expressionRaw.length; c++) {
