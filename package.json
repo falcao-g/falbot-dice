@@ -11,10 +11,14 @@
 		"url": "git+https://github.com/falcao-g/Falbot-roll.git"
 	},
 	"keywords": [
-		"discord"
+		"discord",
+		"bot",
+		"dice",
+		"die",
+		"roll"
 	],
 	"author": "Falcão",
-	"license": "ISC",
+	"license": "GNU 3.0",
 	"bugs": {
 		"url": "https://github.com/falcao-g/Falbot-roll/issues"
 	},
